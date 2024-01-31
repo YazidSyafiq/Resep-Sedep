@@ -1,0 +1,89 @@
+[
+  {
+    "nama": "Es Teler Durian",
+    "photo": "assets/images/drinks/es_teler_durian.jpg",
+    "bahan" : ["100 g daging buah alpukat, potong dadu 2 cm", "100 g nangka, iris tebal 1 cm",
+               "200 g daging kelapa muda, keruk lebar", "75 g kolang kaling, potong 3 bagian",
+               "200 g daging durian", "es serut, secukupnya", "6 sdm krimer kental manis"],
+    "caraMasak" : ["Campur alpukat, nangka, daging kelapa, kolang kaling, dan daging durian ke dalam mangkuk.",
+                   "Tambahkan es serut secukupnya. Siram dengan krimer kental manis. Sajikan segera."]
+  },
+  {
+    "nama" : "Mango Yakult",
+    "photo" : "assets/images/drinks/mango_yakult.jpg",
+    "bahan" : ["200 g es batu", "4 botol yakult", "4 sdm sirup mangga", "200 ml air soda tawar", "1 buah mangga harum manis, potong dadu 1 cm"],
+    "caraMasak" : ["Masukkan es batu ke dalam 4 gelas saji (@ volume 500 ml) hingga ¾ penuh.",
+                   "Tuangkan 1 botol yakult ke dalam masing-masing gelas.", "Tambahkan 1 sdm sirup mangga dan air soda di setiap gelas hingga hampir penuh.",
+                   "Berikan potongan buah mangga, sajikan segera."]
+  },
+  {
+    "nama" : "Lemonade Coffee",
+    "photo" : "assets/images/drinks/americano_lemonade.jpg",
+    "bahan" : ["150 ml air mendidih", "2 sdt kopi bubuk instan", "40 ml air jeruk lemon", "80 ml sirup gula", "200 ml air es", "es batu bulat/kecil", "Irisan jeruk lemon"],
+    "caraMasak" : ["Seduh kopi dengan air mendidih, dinginkan.", "Dalam 2 buah gelas saji, bagi rata air lemon, sirup gula, dan air, aduk rata.", "Masukan es batu dan irisan jeruk lemon, tambahkan kopi, sajikan segera."]
+  },
+  {
+    "nama" : "Mocha Latte",
+    "photo" : "assets/images/drinks/mocha_latte.png",
+    "bahan" : ["Oreo", "Air panas", "Es batu", "Susu", "Kopi instan, larutkan dengan air panas", "Whipped cream", "Bubuk oreo"],
+    "caraMasak" : ["Masukkan oreo, tuang sedikit air panas, hancurkan oreo. Tuang sisa bahan secara bertahap ke dalam gelas. Sajikan segera."]
+  },
+  {
+    "nama" : "Alpukat Kocok",
+    "photo" : "assets/images/drinks/alpukat_kocok.jpg",
+    "bahan" : ["600 g daging buah alpukat", "4 sdm krimer kental manis", "100 ml susu cair", "200 g es serut", "2 sdm susu cokelat bubuk",
+               "600 ml air", "1 bungkus jeli bubuk rasa coklat", "4 sdm gula pasir"],
+    "caraMasak" : ["Jeli Coklat : Campur air, jeli bubuk dan gula pasir ke dalam panci. Rebus sambil di aduk hingga mendidih dan gula larut. Angkat, tuang jeli ke dalam wadah, simpan dalam kulkas hingga padat. Potong jeli ke dalam ukuran 1 x 3 cm, sisihkan.",
+                   "Lumatkan daging alpukat dengan garpu hingga halus. Tambahkan krimer kental manis, aduk rata, sisihkan.",
+                   "Penyajian : Siapkan 4 buah gelas saji (@ volume 300 ml). Tuang adonan alpukat ke dalam gelas saji sama banyak, ratakan. Berikan 1 - 2 sdm jeli coklat ke atas alpukat. Tambahkan es serut secukupnya dan susu cair di atas jeli. Taburi dengan susu cokelat bubuk, sajikan segera."]
+  },
+  {
+    "nama" : "Es Daluman",
+    "photo" : "assets/images/drinks/es_daluman.jpg",
+    "bahan" : ["180 g daun cincau segar, cuci bersih, buang tulang⁣⁣⁣", "1 l air hangat⁣⁣⁣", "200 g es serut",
+               "600 ml santan cair", "½ sdt garam", "2 lembar daun pandan, ikat simpul",
+               "500 ml air", "200 g gula merah, sisir halus", "100 g gula pasir", "1 lembar daun pandan, ikat simpul"],
+    "caraMasak" : ["Potong-potong daun cincau. Masukkan daun cincau ke dalam wadah, tuang air hangat. Diamkan selama 5 menit.", 
+                   "Remas-remas daun cincau hingga berlendir, saring sarinya ke dalam wadah tertutup. Diamkan cincau dalam kulkas hingga padat.",
+                   "Kuah santan : Masukkan seluruh bahan (santan cair, garam, dan daun pandan) ke dalam panci. Rebus sambil di timba-timba hingga mendidih. Angkat. Sisihkan hingga uap panasnya hilang.",
+                   "Saus gula merah : Masukkan semua bahan (500 ml air, gula merah, gula pasir, dan daun pandan) ke dalam panci. Rebus gula sambil diaduk hingga larut dan mengental. Angkat. Sisihkan hingga uapnya hilang.",
+                   "Penyajian : Siapkan 4 gelas saji, sendokan cincau hingga memenuhi setengah tinggi gelas. Tambahkan kuah santan, masukkan es serut, tambahkan saus gula merah di atasnya. Sajikan."]
+  },
+  {
+    "nama" : "Es Cendol",
+    "photo" : "assets/images/drinks/cendol_kacang_merah.jpg",
+    "bahan" : ["es batu, secukupnya", "160 g tepung beras", "80 g tepung sagu", "1 sdt garam", "1,2 l air", "80 ml air daun pandan suji",
+               "700 ml air", "150 g kacang merah, rendam semalaman", "1 lembar daun pandan, ikat simpul", "200 g gula merah", "100 g gula pasir",
+               "1 L santan sedang", "2 lembar daun pandan, ikat simpul", "½ sdt garam"],
+    "caraMasak" : ["Cendol : Dalam wadah, aduk rata tepung beras, tepung sagu, garam, 200 ml air, dan air daun pandan suji, hingga licin. Sisihkan.",
+                   "Masak sisa air dalam panci hingga mendidih, tuang larutan tepung beras, aduk di atas api sedang hingga adonan mengental. Angkat.",
+                   "Siapkan 1 buah wadah berisi air matang dan es batu berjumlah banyak. Selagi panas, masukkan adonan ke dalam cetakan cendol, tekan perlahan hingga adonan keluar dan jatuh ke dalam air dingin. Lakukan hingga adonan habis. Diamkan adonan dalam air es selama 10-15 menit, tiriskan. Sisihkan.",
+                   "Kuah Santan : Rebus 1 L santan sedang, 2 lembar daun pandan, dan ½ sdt garam hingga mendidih",
+                   "Kacang merah : Dalam wadah, masak air hingga mendidih. Masukkan kacang merah dan daun pandan, rebus hingga kacang matang dan cairan tersisa ± 300 ml.",
+                   "Tambahkan gula merah dan gula pasir, masak hingga gula larut. Angkat, biarkan dingin.",
+                   "Penyajian : Letakkan es batu dalam sebuah wadah, berikan cendol, dan kuah santan. Tambahkan kacang merah dan kuah gula secukupnya. Sajikan segera."]
+  },
+  {
+    "nama" : "Buko Mangga",
+    "photo" : "assets/images/drinks/buko_mangga.jpg",
+    "bahan" : ["500 ml susu evaporasi", "250 g daging buah mangga harum manis, haluskan", "100 ml whipping cream", "100 ml krimer kental manis", "2 sdm biji selasih, seduh air panas, tiriskan",
+               "200 g daging buah mangga harum manis, haluskan", "500 ml air", "1 bungkus (15 g) jeli bubuk", "60 g gula pasir", "½ sdt pewarna makanan oranye"],
+    "caraMasak" : ["Jeli mangga : Masukkan semua bahan (200 g daging buah mangga harum manis yang sudah dihaluskan, 500 ml air, 1 bungkus (15 g) jeli bubuk, 60 g gula pasir, dan ½ sdt pewarna makanan oranye) ke dalam panci. Masak di atas api sedang sambil diaduk hingga mendidih. Tuang ke dalam wadah, diamkan hingga mengeras. Potong jeli ke dalam ukuran dadu 1 cm, sisihkan.",
+                   "Dalam mangkuk besar, campur susu evaporasi, mangga, whipping cream, dan krimer kental manis, aduk rata.",
+                   "Tambahkan jeli mangga dan biji selasih, aduk hingga tercampur rata. Simpan dalam kulkas hingga dingin. Sajikan segera."]
+  },
+  {
+    "nama" : "Honey Ice Tea",
+    "photo" : "assets/images/drinks/honey_ice_tea.jpg",
+    "bahan" : ["1,2 l air", "2 sdm teh hitam bubuk", "150 ml madu", "es batu"],
+    "caraMasak" : ["Rebus air dalam panci hingga mendidih, masukkan teh hitam, aduk rata. Matikan apinya, saring. Sisihkan hingga dingin.",
+                   "Tuang teh ke dalam gelas saji, beri madu, aduk rata.", "Tambahkan es batu, sajikan segera."]
+  },
+  {
+    "nama" : "Hwanchae",
+    "photo" : "assets/images/drinks/hwanchae.jpg",
+    "bahan" : ["1/2 butir buah semangka", "400 ml susu stroberi", "200 ml air soda", "2 sdm kental manis putih", "es batu secukupnya"],
+    "caraMasak" : ["Kerok daging buah semangka. Masukkan ke dalam mangkok besar.",
+                   "Tuang susu, air soda, dan kental manis. Aduk rata.", "Tambahkan es batu secukupnya. Hwachae siap dihidangkan."]
+  }
+]

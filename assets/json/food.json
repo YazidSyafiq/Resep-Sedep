@@ -1,0 +1,129 @@
+[
+  {
+    "nama": "Nasi Goreng",
+    "photo": "assets/images/foods/nasi_goreng.jpg",
+    "bahan" : ["3 sdm minyak goreng", "1 butir telur, kocok lepas", 
+               "1 batang daun bawang, iris halus", "50 g kol, iris kasar", 
+               "400 g nasi putih dingin", "2 sdm kecap manis", 
+               "1 sdm kecap asin", "100 g ayam goreng suwir kasar", "5 butir bawang merah",
+               "3 siung bawang putih", "5 buah cabai merah keriting", "½ sdt terasi matang", "½ sdt merica bubuk", "2 batang daun bawang, iris halus"
+              ],
+    "caraMasak" : ["Haluskan bumbu (bawang merah, bawang putih, cabai keriting, terasi, dan merica).", 
+                   "Panaskan 1 sdm minyak goreng dalam wajan, tuang telur kocok. Buat orak-arik, angkat. Sisihkan.",
+                   "Dalam wajan yang sama, panaskan sisa minyak. Tumis bumbu halus hingga harum, tambahkan daun bawang dan kol, aduk.",
+                   "Masukkan nasi, kecap manis dan kecap asin, aduk rata. Tambahkan ayam suwir, aduk hingga nasi berasap. Angkat.",
+                   "Sajikan nasi goreng dengan taburan daun bawang."
+                  ]
+  },
+  {
+    "nama" : "Rendang Daging",
+    "photo" : "assets/images/foods/rendang_daging.jpg",
+    "bahan" : ["1 kg daging tanpa urat, potong dadu 4 cm", "2,5 L santan dari 3 butir kelapa",
+               "5 batang serai, memarkan", "1 lembar daun kunyit, ikat simpul", "15 lembar daun jeruk", "2 potong asam kandis",
+               "250 g cabai merah keriting", "200 g bawang merah", "7 siung bawang putih",
+               "3 cm jahe", "3 cm lengkuas", "1 sdm garam"],
+    "caraMasak" : ["Haluskan bumbu (cabai merah keriting, bawang merah, bawang putih, jahe, lengkuas, dan garam).",
+                   "Masukkan daging ke dalam wajan berdasar tebal. Tambahkan bumbu halus, santan, serai, daun kunyit, dan daun jeruk, masak di atas api sedang sambil diaduk hingga mendidih.",
+                   "Kecilkan api, masak terus hingga santan mengental. Aduk sesekali agar bumbu tidak gosong.",
+                   "Tambahkan asam kandis, teruskan memasak hingga daging agak berwarna kehitaman, dan santan berminyak. Angkat, sajikan hangat."
+                  ]
+  },
+  {
+    "nama" : "Ayam Kecap",
+    "photo" : "assets/images/foods/ayam_kecap.jpg",
+    "bahan" : ["1 ekor (900 g) ayam, potong 8 bagian", "3 buah jeruk limau", "1 sdt garam", "2 sdm margarin", "1 buah (150 g) bawang bombai, iris halus",
+               "4 siung bawang putih, iris halus", "4 sdm kecap manis", "300 ml air", "½ sdt kaldu ayam bubuk", "½ sdt merica putih bubuk", "2 batang daun bawang, potong 2 cm", 
+               "selada keriting"],
+    "caraMasak" : ["Lumuri ayam dengan jeruk limau dan garam hingga rata. Diamkan selama 15 menit.",
+                   "Panaskan margarin dalam wajan. Tumis bawang bombai dan bawang putih hingga harum. Tuang ayam, aduk hingga berubah warna.",
+                   "Tambahkan kecap manis, air, kaldu ayam bubuk dan merica bubuk. Masak hingga ayam matang dan bumbu meresap.",
+                   "Tambahkan daun bawang, aduk cepat, angkat. Pindahkan ke piring saji, sajikan hangat dengan pelengkap."]
+  },
+  {
+    "nama" : "Nasi Bakar Cumi",
+    "photo" : "assets/images/foods/nasi_bakar_cumi.jpg",
+    "bahan" : ["2 sdm minyak goreng", "1 batang serai , memarkan", "2 lembar daun jeruk", "2 lembar daun salam",
+               "200 g cumi asin, rendam dalam air panas, iris 1 cm", "4 buah cabai merah besar, buang biji, iris memanjang",
+               "75 g daun kemangi", "1 sdt gula pasir", "Daun pisang untuk membungkus", 
+               "4 siung bawang putih", "6 butir bawang merah", "4 buah cabai merah keriting", "6 buah cabai merah rawit",
+               "400 g beras pulen", "600 ml kaldu ayam", "½ sdt garam", "½ sdt merica bubuk", "3 siung bawang putih, cincang, tumis"],
+    "caraMasak" : ["Masak nasi gurih (beras pulen, kaldu ayam, garam, ½ sdt merica bubuk, dan bawang putih) terlebih dahulu di rice cooker.",
+                   "Haluskan bumbu (bawang putih, 6 butir bawang merah, cabai merah keriting, cabai merah rawit).",
+                   "Panaskan minyak goreng dalam wajan, masukkan bumbu halus, serai, daun jeruk, dan daun salam. Tumis hingga harum.",
+                   "Masukkan cumi asin, cabai merah besar, dan gula pasir. Masak sambil diaduk hingga rata.",
+                   "Tambahkan daun kemangi, aduk kembali hingga daun kemangi layu, angkat.",
+                   "Setelah nasi gurih sudah matang, ambil 2 lembar daun pisang, letakkan 1 bagian nasi gurih di atasnya. Berikan 2-3 sdm cumi asin tumis di tengah nasi. Gulung sambil dipadatkan. Sematkan kedua ujung daun pisang dengan tusuk gigi.",
+                   "Bakar nasi di atas bara api atau grill pan hingga daunnya berubah warna menjadi kecoklatan dan harum. Angkat dan sajikan."]
+  },
+  {
+    "nama" : "Garang Asem",
+    "photo" : "assets/images/foods/garang_asem.jpg",
+    "bahan" : ["300 ml kaldu ayam", "4 cm lengkuas, iris tipis", "2 lembar daun salam, robek-robek", "900 g ayam kampung, potong kecil-kecil", "Daun pisang lebar, untuk membungkus",
+               "10 buah belimbing sayur, potong-potong", "150 g tomat hijau, potong-potong", "24 cabai rawit, biarkan utuh",
+               "100 g bawang merah", "8 siung bawang putih", "6 buah cabai merah besar", "6 butir kemiri sangrai", "1 sdm gula merah", "3 sdt garam"],
+    "caraMasak" : ["Haluskan bumbu (bawang merah, bawang putih, cabai merah besar, kemiri sangrai, gula merah, dan garam).",
+                   "Masukkan kaldu ayam ke dalam panci, tambahkan bumbu halus, lengkuas, dan daun salam, rebus hingga bumbu meresap. Masukkan potongan ayam, masak hingga ayam setengah matang. Angkat, tiriskan ayam dan bumbu iris. Bagi ayam dan bumbu menjadi 6 bagian.",
+                   "Tumpukkan 2 lembar daun pisang, taruh 1 bagian ayam rebus di atasnya. Tambahkan lengkuas iris, daun salam, belimbing sayur, tomat, dan cabai rawit.",
+                   "Bungkus adonan bentuk tum, tambahkan kaldu hingga ayam terendam. Rapatkan dengan lidi. Pastikan cairannya tidak keluar. Selesaikan membungkus hingga bahan habis.",
+                   "Masukkan bungkusan ke dalam dandang, kukus selama 45 menit atau hingga ayam matang. Angkat, sajikan."]
+  },
+  {
+    "nama" : "Tongseng Kambing",
+    "photo" : "assets/images/foods/tongseng_kambing.jpg",
+    "bahan" : ["4 sdm minyak goreng", "2 lembar daun salam", "2 batang serai, memarkan", "2 cm lengkuas, memarkan", 
+               "400 g daging kambing muda, potong dadu 3 cm", "1 liter air", "500 ml santan sedang", "1 sdt merica bubuk",
+               "4 sdm kecap manis", "1 sdt gula pasir", "1½ sdt garam", "200 g kol, iris kasar", "5 buah cabai rawit, iris kasar", "1 buah tomat, iris-iris", "1 sdm bawang goreng, untuk taburan",
+               "10 butir bawang merah", "5 siung bawang putih", "3 buah cabai merah", "4 butir kemiri", "2 sdt ketumbar bubuk", "½ sdt merica bubuk", "¼ sdt jintan", "2 cm kunyit", "2 cm jahe", "1 sdt garam"],
+    "caraMasak" : ["Haluskan bumbu (bawang merah, bawang putih, cabai merah, kemiri, ketumbar bubuk, merica bubuk, jintan, kunyit, jahe,dan garam)",
+                   "Panaskan minyak goreng, tumis bumbu halus bersama serai, dan lengkuas.",
+                   "Masukkan daging kambing, aduk hingga berubah warna. Tambahkan air, santan, merica bubuk, kecap manis, gula dan garam. Aduk.",
+                   "Masak hingga daging empuk. Kemudian masukkan kol, cabai rawit, dan tomat. Masak kembali, cukup sebentar saja",
+                   "Setelah matang, pindahkan tongseng ke piring saji, kemudian taburi bawang goreng di atasnya."
+                   ]
+  },
+  {
+    "nama" : "Seblak Seafood",
+    "photo" : "assets/images/foods/seblak_seafood.jpg",
+    "bahan" : ["4 sdm minyak goreng", "4 butir telur", "4 buah crab stick, potong 1 cm", "8 buah bakso ikan, iris tipis", "8 buah bakso sapi, iris tipis", "4 buah sosis, iris tipis",
+               "200 g sawi hijau, potong 2 cm", "800 ml kaldu udang", "1 sdt kaldu jamur", "½ sdt garam", "½ sdt gula pasir", "150 g kerupuk bawang, seduh air panas selama 10 menit, tiriskan", "100 g makaroni, rebus hingga matang, tiriskan",
+               "8 siung bawang putih", "4 butir bawang merah", "4 buah cabai merah keriting", "9 buah cabai rawit merah", "6 cm kencur"],
+    "caraMasak" : ["Haluskan bumbu (bawang putih, bawang merah, cabai merah keriting, cabai rawit merah, dan kencur).",
+                   "Panaskan 2 sdm minyak goreng dalam wajan, masukkan telur, masak menjadi orak-arik. Sisihkan telur ke tepi wajan.",
+                   "Panaskan sisa minyak, tumis bumbu halus hingga harum. Masukkan crab stick, bakso ikan, bakso sapi, dan sosis, aduk rata bersama bumbu dan telur.",
+                   "Tambahkan sawi hijau, masak hingga sayur layu.", "Masukkan kaldu udang, kaldu jamur, garam, dan gula pasir, aduk rata. Masak hingga mendidih.",
+                   "Tambahkan kerupuk bawang dan makaroni, aduk rata. Masak kembali hingga mendidih. Angkat, sajikan segera."]
+  },
+  {
+    "nama" : "Udang Asam Manis",
+    "photo" : "assets/images/foods/udang_asam_manis.jpg",
+    "bahan" : ["800 g udang pacet ukuran sedang, buang kepala, kupas kulit, kerat punggungnya", "2 buah jeruk nipis, ambil airnya", "4 sdm minyak goreng", "1 buah (150 g) bawang bombai, iris tipis",
+               "3 siung bawang putih, iris tipis", "2 buah cabai merah besar, iris serong", "50 g paprika hijau, potong dadu 2 cm", "50 g paprika kuning, potong dadu 2 cm", "50 g paprika merah, potong dadu 2 cm",
+               "4 sdm saus tomat", "3 sdm saus tiram", "100 ml air", "½ sdt garam", "1 sdt gula pasir", "1 sdt merica putih bubuk"],
+    "caraMasak" : ["Lumuri udang dengan air jeruk nipis.", "Panaskan minyak, tumis bawang bombai dan bawang putih hingga harum.", "Tambahkan cabai merah besar, paprika hijau, paprika kuning, dan paprika merah, aduk rata.",
+                   "Masukkan udang, masak hingga berubah warna.", "Tambahkan saus tomat, saus tiram, air, garam, merica, dan gula pasir, aduk hingga rata dan udang benar-benar matang. Angkat, sajikan."]
+  },
+  {
+    "nama" : "Botok Ikan Teri",
+    "photo" : "assets/images/foods/botok_ikan_teri.jpg",
+    "bahan" : ["400 g kelapa parut setengah tua", "300 g ikan teri jengki segar", "500 g tahu putih, lumatkan", "50 g petai cina", "1 sdt garam",
+               "1 sdt kaldu ayam bubuk", "1 sdt gula pasir", "Daun pisang, secukupnya", "tusuk gigi, secukupnya",
+               "12 butir bawang merah", "8 siung bawang putih", "4 buah cabai merah keriting", "4 cm kunyit, bakar", "4 cm kencur, bakar", "4 cm lengkuas", "2 sdt ketumbar, sangrai", "1 sdt terasi bakar"],
+    "caraMasak" : ["Haluskan bumbu (bawang merah, bawang putih, cabai merah keriting, kunyit, kencur, lengkuas, ketumbar, dan terasi bakar).",
+                   "Dalam wadah, masukkan kelapa parut, ikan teri, tahu dan petai cina, aduk rata.", "Tambahkan bumbu halus, garam, kaldu ayam bubuk, dan gula pasir, aduk kembali hingga rata. Bagi adonan menjadi 8 bagian sama rata.",
+                   "Ambil 2 lembar daun pisang. Letakkan 1 bagian adonan di tengah daun. Bungkus bentuk tum, sematkan dengan tusuk gigi. Lakukan hal yang sama pada sisa adonan.",
+                   "Kukus botok dalam dandang panas hingga matang (30 menit). Angkat, sajikan segera selagi hangat."]
+  },
+  {
+    "nama" : "Mangut Lele",
+    "photo" : "assets/images/foods/mangut_lele.jpg",
+    "bahan" : ["6 ekor (@ 100 g) ikan lele, cuci bersih, kerat-kerat", "1 sdm air jeruk nipis", "1 sdt garam", "minyak goreng", "4 lembar daun jeruk", "3 cm lengkuas, memarkan", "2 lembar daun salam",
+               "2 batang serai, memarkan", "600 ml santan encer", "150 ml santan kental", "1½ sdt garam", "1 sdm gula merah, sisir halus", "10 buah tomat hijau, potong 2 bagian", "100 g daun kemangi", "50 g cabai rawit merah utuh",
+               "4 buah cabai merah besar", "6 buah cabai merah keriting", "10 butir bawang merah", "5 siung bawang putih", "6 butir kemiri", "4 cm kencur, bakar", "4 cm kunyit, bakar", "3 cm jahe, bakar", "1 sdt ketumbar bubuk", "¼ sdt jinten, sangrai", "¼ sdt merica bubuk"],
+    "caraMasak" : ["Haluskan bumbu (cabai merah besar, cabai merah keriting, bawang merah, bawang putih, kemiri, kencur, kunyit, jahe, ketumbar bubuk, jinten, dan merica bubuk)",
+                   "Lumuri lele dengan air jeruk nipis dan garam. Diamkan dalam kulkas selama 10 menit.",
+                   "Panaskan minyak banyak dalam wajan, goreng lele dengan api besar hingga matang dan kecoklatan. Angkat, tiriskan. Sisihkan.",
+                   "Panaskan 4 sdm minyak sisa menggoreng lele dalam wajan. Tumis bumbu halus, daun jeruk, lengkuas, dan daun salam hingga harum.",
+                   "Masukkan santan encer, santan kental, garam, dan gula merah, aduk rata. Masak sambil ditimba-timba hingga mendidih dan bumbu meresap.",
+                   "Tambahkan lele goreng, tomat hijau, daun kemangi dan cabai rawit merah. Masak hingga daun layu. Angkat. Sajikan."]
+  }
+]
