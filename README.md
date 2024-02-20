@@ -1,16 +1,13 @@
-# resep_sedep
+# Resep Sedep
 
-A new Flutter project.
+**Resep Sedep** adalah sebuah aplikasi kumpulan resep makanan dan minuman yang dirancang untuk memudahkan para user dalam mencari referensi resep hidangan sedap. Aplikasi ini masih butuh banyak pengembangan ke depannya. Berikut adalah tampilan dari aplikasi Resep Sedep ini:
 
-## Getting Started
+![Splash Screen](assets/images/Screenshot_20240220_205548.jpg)
 
-This project is a starting point for a Flutter application.
+![Onboarding Screen](assets/images/Screenshot_20240220_205553.jpg)
 
-A few resources to get you started if this is your first Flutter project:
+![Food Menu](assets/images/Screenshot_20240220_205559.jpg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Drink Menu](assets/images/Screenshot_20240220_205605.jpg)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Exit Menu](assets/images/Screenshot_20240220_205612.jpg)
