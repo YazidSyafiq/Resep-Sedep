@@ -11,3 +11,5 @@
 ![Drink Menu](assets/images/Screenshot_20240220_205605.jpg)
 
 ![Exit Menu](assets/images/Screenshot_20240220_205612.jpg)
+
+Terima kasih :)
